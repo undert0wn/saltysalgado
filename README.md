@@ -12,5 +12,5 @@ Visit the site: [https://undert0wn.github.io/saltysalgado-site](https://undert0w
 ## 📬 Contact
 
 Want to connect or collaborate?  
-Email us at [admin@saltysalgado.com](mailto:admin@saltysalg(https://www.linkedin.com/company/YOUR-LINKEDIN-HANDLEull platform with resources, mentorship, and community tools. Stay tuned!
+Email us at [admin@saltysalgado.com](mailto:admin@saltysalg(https://www.linkedin.com/company/salty-salgado/) platform with resources, mentorship, and community tools. Stay tuned!
 
