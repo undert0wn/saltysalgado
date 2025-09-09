@@ -2,11 +2,11 @@
 
 **Empowering Latinos in IT through mentorship, skill-building, and real-world guidance.**
 
-This is the placeholder site for [Salty Salgado](https://saltysalgadoven platform focused on uplifting Latinos in tech. We're building a space for people ready to learn, listen, and lead with purpose.
+This is the placeholder site for [Salty Salgado](https://saltysalgado.com platform focused on uplifting Latinos in tech. We're building a space for people ready to learn, listen, and lead with purpose.
 
 ## 🌐 Live Site
 
-Visit the site: [https://yourusername.github.io/saltysalgado-site](https://yourusername.github.io/saltysalgado-sitending page
+Visit the site: [https://undert0wn.github.io/saltysalgado-site](https://undert0wn.github.io/saltysalgado-site landing page
 - `salty-small.jpg` — Logo image
 
 ## 📬 Contact
